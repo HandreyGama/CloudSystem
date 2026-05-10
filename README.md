@@ -1,4 +1,5 @@
 # CloudSystem
+<img width="1907" height="907" alt="image" src="https://github.com/user-attachments/assets/6cbc272b-b48f-424c-8110-7e1dd7882bb8" />
 
 ## Project Overview
 The project consists of a website developed using Flask (Python web framework) and HTML, CSS, JavaScript for styling and functionality. The site offers information about the Cloud System, its solutions, and contact details.
